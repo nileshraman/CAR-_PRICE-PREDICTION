@@ -1,0 +1,13 @@
+*This project is submitted by "Nilesh Raman" of DAV University.
+*This project was assigned by Netmax Traning Institute.
+The project is a prediction project on car price prediction.
+
+
+Follow the following Step before opening the project file (Backend(Car prediction)).
+
+STEP 1: install both font file.(which is provided in the folder with i.e aesthetica and Disengaged ).
+STEP 2: open->(Backend(Car prediction)) and wait for some time.
+STEP 3: At last open ->GUI of CAR Prediction(Nilesh Raman)and you will see GUI.
+
+
+THANKYOU FOR READING IT.
